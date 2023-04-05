@@ -1,0 +1,11 @@
+.container__modal{
+    display: flex;
+    flex-wrap: wrap;
+    display: none;
+}
+
+.modal{
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+}
